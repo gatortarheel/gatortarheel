@@ -9,6 +9,6 @@
 
 [.NET Virtual User Group](https://www.meetup.com/dotnet-virtual-user-group/welcome/join/)
 
-[.NET Foundation](https://old.dotnetfoundation.org/) <!-- site being redone
+[.NET Foundation](https://old.dotnetfoundation.org/)
 
 [.NET Foundation Resources](https://dotnetfoundation.org/community/resources)
